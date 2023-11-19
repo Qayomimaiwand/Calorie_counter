@@ -11,7 +11,7 @@ To begin, make a copy of the repository by utilizing the provided link.
 
 #Install:
 In your terminal, navigate to the directory where you want to store the files and execute the following command:
-$ git clone [https://github.com/PrangonGhose/Calorie-Counter.git](https://github.com/Qayomimaiwand/Calorie_counte)
+$ git clone https://github.com/Qayomimaiwand/Calorie_counter
 
 Getting into development:
 To commence development, run the subsequent commands in your terminal:
